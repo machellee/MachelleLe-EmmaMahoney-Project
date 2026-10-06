@@ -1,0 +1,50 @@
+A unique ID for each survey respondent
+Probably the date of the interview, in YYYYMMDD format
+Age of survey respondent (years)
+Sex of survey respondent
+Job status: stable, unstable, student, retired, homemaker, or other
+Marital status: married, unmarried, other
+Maximum educational attainment (PostGrad = post-graduate, Grad = college or university, Second = high school, Hi = middle school)
+Height (cm)
+Weight (kg)
+Place the survey was conducted
+Body mass index, calculated from height and weight
+Whether the respondent has health insurance
+Time since the respondent last visited a doctor with symptoms of a disease (less12 = less than 12 months, b1224 = between 12 and 24 months, g24 = over 24 months, unknow [sic] = respondent doesn’t know)
+Time since respondent last visited a doctor for a check-up, not prompted by a specific illness. Coded in the same way
+Reason for their last check-up (noti.disease = concern over illness or epidemic, adv.sig = worrying symptoms, request = requested by an employer or insurance company, volunteer = no immediate reason)
+Does the respondent believe check-ups are a waste of time?
+Does the respondent believe check-ups are a waste of money?
+Is the respondent afraid of check-ups because they’re afraid of discovering a disease?
+Does the respondent have little faith in the quality of medical service?
+Does the respondent believe check-ups are not urgent or important?
+Does the respondent believe health is a first priority?
+Are check-ups subsidized by the respondent’s employer or community?
+Did the respondent get the habit of regular check-ups from their family or employer?
+Does the respondent constantly follow updates on their health measures?
+Is the respondent receiving long-term medical treatment?
+Is a member of the respondent’s family receiving long-term medical treatment?
+Are the respondent and their family all in good health?
+Does the respondent keep a medical cabinet and basic medical equipment at home?
+Does the respondent have the skills to use basic medical equipment?
+Does the respondent have experience taking care of a sick family member?
+Does the respondent’s family regularly take simple medical measurements, like blood pressure or weight?
+If the respondent were provided cash to have a check-up, what would they do? allsoon = use all the money to have a check-up soon, partly = use part of the money for a check-up and save the rest, later = take all the money and have a check-up later
+Perceived quality of medical equipment and personnel at check-ups. Scale of 1 to 5, 1=lowest quality
+Perceived ability of examiner to perform medical services that meet the patient’s expertations, scale of 1 to 5
+Perceived timeliness of check-up service, scale of 1 to 5
+Perceived knowledge or ability to assure professional reliance, scale of 1 to 5
+Perceived thoughtfulness and sense of responsibility of medical staff, scale of 1 to 5
+Respondent’s preferred way of dealing with new symptoms: clinic = go to a clinic, askrel = ask family and relatives for advice, selfstudy = do personal research.
+Respondent’s general opinion of public health (good, quite good, bad, unknown)
+How often respondent believes check-ups should be done (6m = every 6 months, 12m = every 12 months, 18m = every 18 months, g18m = less often than every 18 months)
+How much the respondent believes a check-up should cost (low = less than 1 million VND, med = from 1 to 2 million VND, hi = over 2 million VND)
+Is the respondent willing to use information technology to detect health problems, if it’s reliable?
+If a healthcare app indicated that the respondent needed to have a check-up, would they arrange one?
+Respondent’s rating of the sufficiency of information they received in check-ups, 1 to 5 scale
+Respondent’s rating of the attractiveness of information they received in check-ups, 1 to 5 scale
+Respondent’s rating of the impressiveness of information they received in check-ups, 1 to 5 scale
+Respondent’s rating of the popularity of information they received in check-ups, 1 to 5 scale
+How much time the respondent thinks people should spend on sports and physical exercise to stay in shape (units not given)
+How much time the respondent spends on sports and physical exercise (verysuff = ‘more than enough’, quitesuff = ‘enough’, little = ‘only a little’, trivial = ‘none or almost none’
+The respondent’s age, broken into one of five categories
